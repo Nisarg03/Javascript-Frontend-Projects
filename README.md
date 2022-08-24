@@ -1,3 +1,3 @@
 # Javascript-Frontend-Projects
 
-- 1) Color Filpper
+1) Color Filpper
