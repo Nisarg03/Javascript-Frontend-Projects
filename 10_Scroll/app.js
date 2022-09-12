@@ -23,7 +23,7 @@ navToggle.addEventListener("click", function () {
     } else {
       linksContainer.style.height = 0;
     }
-    // console.log(linksContainer.getBoundingClientRect());
+    console.log(linksContainer.getBoundingClientRect());
   });
   
 // ********** fixed navbar ************
